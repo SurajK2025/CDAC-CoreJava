@@ -1,0 +1,28 @@
+1:write program to test Hello World.
+2:Write a program to adddition of two numbers .
+3:Write a program to swap two numbers.
+4. Write a program to accept an integer and check if it is even or odd.
+5. Write a program to accept a number and check if it is divisible by 5 and 7.
+6. Write a program, which accepts annual basic salary of an employee and calculates and displays the 
+Income tax as per the following rules. 
+Basic: < 1, 50,000 Tax = 0
+ 1, 50,000 to 3,00,000 Tax = 20% 
+ > 3,00,000 Tax = 30% 
+7. Accept a lowercase character from the user and check whether the character is a vowel or consonant. 
+(Hint: a, e, i, o, u are vowels)
+8. Write a C program to input angles of a triangle and check whether triangle is valid or not.
+9:Write a program to find factorial of a given number. ex:no5  fact=5*4*3*2*1=120
+10:Write a program to find m to the power n. m=3 and n=4 so 3*3*3*3
+11:Check if number is a prime number or not.: 
+12:Sum of series :
+	1+2+3+….+n
+13:Check whether the number is palindrome or not?
+14:Write a  program to find sum of all even and odd numbers between 1 to n. 
+15: Write a  program to enter a number and print its reverse.
+16:Write a  program to print all Prime numbers between 1 to n. 
+17:Write a program to check entered number is Armstrong number or not.
+18:Write a program to find greatest of three numbers using nested if-else.
+19:Create menu driven program for Pizza Shop.And display total amount,
+20:Accept a single digit from the user and display it in words. For example, if digit entered is 9, display Nine.
+21. Write a program, which accepts two integers and an operator as a character (+ - * / ), performs the 
+corresponding operation and displays the result.
