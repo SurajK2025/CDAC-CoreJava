@@ -1,0 +1,25 @@
+1:Write a program to create student class with data members rollno, marks1,mark2,mark3.
+Accept data (acceptInfo()) and display  using display member function.
+Also display total,percentage and grade.
+
+2. Create a class Person with data members as name, age, city. Write getters and setters for all the data 
+members. Also add the display function. Create Default and Parameterized constructors. Create the 
+object of this class in main method and invoke all the methods in that class. 
+
+3. Create a class Date with data members as dd, mm, yy. Write getters and setters for all the data members. Also add the display function. Create Default and Parameterized constructors. Create the 
+object of this class in main method and invoke all the methods in that class. 
+
+4. Create a class Book with data members as bname,id,author,price. Write getters and setters for all the 
+data members. Also add the display function. Create Default and Parameterized constructors. Create 
+the object of this class in main method and invoke all the methods in that class. 
+
+5. Create a class Point with data members as x,y. Create Default and Parameterized constructors. Write 
+getters and setters for all the data members. Also add the display function. Create the object of this 
+class in main method and invoke all the methods in that class. 
+
+6. Create a class ComplexNumber with data members real, imaginary. Create Default and Parameterized constructors. Write getters and setters for all the data members. Also add the display function. Create the object of this class in main method and invoke all the methods in that class.
+
+7:create BankAccount   aaplication for operations like withdraw ,deposite  and ShowBalance
+Create menu drive program for bank operations..
+
+8:Create array of BankAccount class  and store 5 objects....create menu  driven application for same.....ex. show all account  names ,balance,email...

@@ -1,0 +1,30 @@
+1: Create Date class with members day, month, year.
+Write no argument and parameterised constructor .Create two object s and initialize them using no argument and parameterised constructor respectively.Print date using display function.
+
+
+2: Create Employee class with members id(int),name(string),dob(Date).Use above created Date class.
+Write default and parameterised constructor in Employee Class.Write accept() function to accept information and display() to display emp information.
+
+
+3.1. Construct a class Employee with following members using private access
+specifies:
+ Employee Id integer
+ Employee Name string
+ Basic Salary double
+ HRA double
+ Medical double=1000
+ PF double
+PT double
+ Net Salary double
+ Gross Salary double
+Please use following expressions for calculations://Note:Don't accept HRA,PF PT from user
+ * HRA = 50% of Basic Salary
+* PF = 12% of Basic Salary
+* PT = Rs. 200
+
+3.2. Write methods to display the details of an employee and calculate the gross
+and net salary.
+* Gross Salary = Basic Salary + HRA + Medical
+* Net Salary = Gross Salary – (PT + PF)
+
+Create Object of employee class and assign values and display Details.
