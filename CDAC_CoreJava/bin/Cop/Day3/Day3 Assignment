@@ -1,0 +1,34 @@
+1:Java program to print the following pattern on the console
+*
+* *
+* * *
+* * * *
+* * * * *
+
+2:Write a program which will accept student information like rollno,name,5 subject marks.calculate total and percentage.calculate grade.. 
+           per >75 grade :A
+           per<74 and >60 :B
+           per<59  :C
+3:Write a Java program to find the maximum and minimum value of an array.
+
+4:Write a menu driven program for stationary shop.Items are 1:Pen 2:Pencil 3:NoteBook 4:Bottle 5:ColorBox.
+1 pen cost is 10Rs,Pencil is 5 rs.NoteBook is 20 rs Bottle is 30 rs and ColorBox is at 50 Rs.
+Calculate Total of all purchesed items. 
+
+5:Write a Java program to accept 2D aaray elements.Display all elements.
+
+6:Write a java program to make the addition of two 2D array And store result in Third array.
+
+7:Write a java program to convert char array into String.
+
+8:Write a program to accept array of string.Display all elements in uppercase.
+
+9:Create Menu driven program for array operations.
+1:Read Array 2:Print Array 3:Search element in array 4:Reverse Array 5:Even number from array6:sum of array element
+
+10:read two int array...and store both in third array and display third array
+arr1:----->1 2 3
+arr2:----->5 6 7 8 9
+result----->1 2 3 5 6 7 8 9
+
+11:Create application for method overloading
