@@ -2,7 +2,7 @@ package OOP.Day2.fruits;
 
 public class Orange extends Fruit{
 
-	Orange(){
+	public Orange(){
 		super("Orange",120,"Orange");
 	}
 
@@ -12,7 +12,7 @@ public class Orange extends Fruit{
 
 	@Override
 	public String taste() {
-		return "Sour.";
+		return "Sour";
 	}
 	
 	@Override

@@ -18,6 +18,14 @@ public class Fruit {
 		return this.name;
 	}
 	
+	public void setIsFresh(boolean isfresh) {
+		this.isfresh=isfresh;
+	}
+	
+	public boolean getIsFresh() {
+		return isfresh;
+	}
+	
 	public String taste() {
 		return "No specific taste.";
 	}

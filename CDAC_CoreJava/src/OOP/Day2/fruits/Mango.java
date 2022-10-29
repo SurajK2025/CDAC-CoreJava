@@ -1,7 +1,7 @@
 package OOP.Day2.fruits;
 
 public class Mango extends Fruit{
-	Mango(){
+	public Mango(){
 		super("Yellow", 200, "Mango");
 	}
 
