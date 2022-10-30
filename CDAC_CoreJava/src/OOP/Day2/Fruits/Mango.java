@@ -1,4 +1,4 @@
-package OOP.Day2.fruits;
+package OOP.Day2.Fruits;
 
 public class Mango extends Fruit{
 	public Mango(){

@@ -1,4 +1,4 @@
-package OOP.Day2.fruits;
+package OOP.Day2.Fruits;
 import java.util.Scanner;
 
 public class Tester2 {
