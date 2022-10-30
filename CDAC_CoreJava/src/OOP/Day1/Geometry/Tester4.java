@@ -1,8 +1,8 @@
-package OOP.Day1.Geometry_4;
+package OOP.Day1.Geometry;
 
 import java.util.Scanner;
 
-public class Main {
+public class Tester4 {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
@@ -17,9 +17,10 @@ public class Main {
         int count=1;
         for(Point2D p : point) {
             System.out.print("\nCoordinate "+count+" :");
-            System.out.print(p.Display());
+            System.out.print(p);
             count++;
         }
 
 	}
+
 }

@@ -1,8 +1,8 @@
-package OOP.Day1.Geometry_3;
+package OOP.Day1.Geometry;
 
 import java.util.Scanner;
 
-public class Main {
+public class Tester3 {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
@@ -13,5 +13,7 @@ public class Main {
         Point2D point2 = new Point2D(sc.nextDouble(), sc.nextDouble());
         
         System.out.println("The distance between two coordinates is: "+point2.calcDist(point1));
+
 	}
+
 }
